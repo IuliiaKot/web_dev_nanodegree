@@ -1,0 +1,51 @@
+/* Enter your custom CSS here */
+* {
+	font: 16px/30px Kalimati, Verdana, sans-serif;
+	color: #666666;
+}
+
+h1 {
+  	font-size: 48px;
+	color: #666666;
+}
+
+h2 {
+    font-size: 28px;
+	color: #f07c17;
+    font-weight: normal;
+}
+
+ul {
+	color: #666666;
+    line-height: 32px;
+    margin-left: 30px;
+    margin-top: 29px;
+    margin-bottom: -5px;
+   /* margin: 24px 0 0 29px;*/
+}
+
+p {
+    line-height: 32px;/*32*/
+}
+.list {
+	margin-left: 32px;
+    padding-top: 10px;
+}
+
+.title {
+	margin-top: 45px;/*50px*/
+}
+
+.logo {
+	margin-top: 18px;
+}
+
+.main-features {
+	margin-top: 32px;
+	padding-bottom: 48px;
+	border: 1px solid #cccccc;
+}
+
+.first-paragraph {
+	margin-top: 26px;/*25*/
+}
